@@ -201,7 +201,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{sparse-bitnet,
   title={Sparse-BitNet: Training Sparse 1.58-bit LLMs},
-  author={},
+  author={Di Zhang, Xun Wu, Shaohan Huang, Yudong Wang, Hanyong Shao, Yingbo Hao, Zewen Chi, Li Dong, Ting Song, Yan Xia, Zhifang Sui, Furu Wei},
   year={2025}
 }
 ```
